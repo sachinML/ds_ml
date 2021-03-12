@@ -1,2 +1,2 @@
 # ds_ml
-practice
+practice problems
