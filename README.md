@@ -1,2 +1,2 @@
 # ds_ml
-practice problems
+practice problems related to machine learning algorithms
